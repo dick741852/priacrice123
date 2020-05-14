@@ -2,6 +2,7 @@
   "name": "PWA Starter",
   "display": "standalone",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "start_url": "/",
 =======
 <<<<<<< HEAD
@@ -10,6 +11,9 @@
   "start_url": "/",
 >>>>>>> 8ed29e7e22b2e18724da0fb58387e2a82cfdb627
 >>>>>>> 986d3b7... First Login.html
+=======
+  "start_url": "/",
+>>>>>>> 6055fa663264d736f0addbeabf31bdfdb8f3e810
   "short_name": "starter",
   "theme_color": "#686bd2",
   "description": "This is a PWA Starter app",

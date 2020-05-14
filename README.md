@@ -1,9 +1,13 @@
 # pwa-starter
 <<<<<<< HEAD
+<<<<<<< HEAD
 testtesttest
 =======
 
 >>>>>>> 986d3b7... First Login.html
+=======
+testtesttest
+>>>>>>> 6055fa663264d736f0addbeabf31bdfdb8f3e810
 Welcome to the [lit-element](https://lit-element.polymer-project.org/) edition of the [PWABuilder](https://www.pwabuilder.com/) pwa-starter! Looking to build a new [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) and not sure where to get started? This is what you are looking for! The pwa-starter includes everything you need to start building a production ready PWA and follows all best practices. You get:
 
 - lazy-loaded routes using [@vaadin/router](https://vaadin.com/router).
@@ -114,6 +118,7 @@ pwa-starter
 
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 # priacrice123
 =======
 <<<<<<< HEAD
@@ -121,3 +126,6 @@ pwa-starter
 # priacrice123
 >>>>>>> 8ed29e7e22b2e18724da0fb58387e2a82cfdb627
 >>>>>>> 986d3b7... First Login.html
+=======
+# priacrice123
+>>>>>>> 6055fa663264d736f0addbeabf31bdfdb8f3e810
